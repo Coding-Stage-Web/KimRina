@@ -1,2 +1,2 @@
 # KimRina
-안녕하세요!! ✨백엔드 개발자✨ 김리나입니다😊
+![backend](https://user-images.githubusercontent.com/93020734/224770541-810ae061-8d17-46c7-8076-7a927fdc3f17.png)
